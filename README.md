@@ -50,7 +50,7 @@ The model behind KrishiMitra is trained on a curated dataset sourced from Kaggle
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/crop-webapp.git
+git clone https://github.com/devansh934/KrishiMitra-Crop_Recommendation.git
 cd crop-webapp
 ```
 
