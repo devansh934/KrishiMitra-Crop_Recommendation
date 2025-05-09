@@ -36,6 +36,19 @@ The model behind KrishiMitra is trained on a curated dataset sourced from Kaggle
 
 ---
 
+## 📸 Demo
+
+Here’s what the application looks like:
+
+![cropImg](https://github.com/user-attachments/assets/fb9812aa-65f0-4b30-b229-151e63e6fccc)
+![cropImg1](https://github.com/user-attachments/assets/a46099f8-ba9d-49ea-b670-0c4d11eee5d7)
+
+
+
+> 📌 Replace `demo-screenshot.png` with your actual screenshot file.
+
+---
+
 ## 🧰 Tech Stack
 
 - **Python**
