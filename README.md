@@ -31,7 +31,7 @@ Using this input, **KrishiMitra** recommends the most suitable crop to cultivate
 
 ## 📂 Dataset Used
 
-The model behind KrishiMitra is trained on a curated dataset sourced from Kaggle:  
+The model behind KrishiMitra is trained on a curated dataset sourced from Kaggle:
 🔗 [Crop Recommendation Dataset – Kaggle](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)
 
 ---
